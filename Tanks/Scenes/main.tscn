@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cwchf0wrxqilu"]
+
+[ext_resource type="Script" path="res://Tanks/Scenes/Main.cs" id="1_01o4v"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_01o4v")
